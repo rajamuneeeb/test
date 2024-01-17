@@ -1,0 +1,5 @@
+com/test/terminal_service/AppRunner.class
+com/test/terminal_service/JsonTestController.class
+com/test/terminal_service/TerminalServiceApplication.class
+com/test/terminal_service/JsonManager.class
+com/test/terminal_service/JsonService.class
